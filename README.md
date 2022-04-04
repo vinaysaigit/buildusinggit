@@ -9,6 +9,8 @@ What's Here
 
 This sample includes:
 
+*This is the only file which is editable.
+
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
